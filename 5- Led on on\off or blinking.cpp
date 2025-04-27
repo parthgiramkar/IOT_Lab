@@ -50,8 +50,8 @@ void loop() {
 /*
 
 how to connect - to left of rfid reader there is keypad and beside that there is written led
-stuck that into the 5pin wire and for other end - led ke niche 2 pins hai
-aur uske niche 7 pins to 7pins mein se 7vi vali pin mein attache the 5pin and then the led will blink
+stuck that into the 6pin port and for other end - led ke niche port pins hai
+aur uske niche 7 port to 7port mein se 7vi vali port  mein attache the 6pin ki  wire and then the led will blink
 Code Explanation:
 #define LED1 10, #define LED2 11, etc.:
 #define is used to give a name to a value.
