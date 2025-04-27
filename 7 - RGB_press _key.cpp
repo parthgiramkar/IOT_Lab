@@ -49,7 +49,9 @@ void loop() {
 
 /*
 
-how to connect : - 
+how to connect : - to left of rfid reader there is keypad and uske  upper mein that there is written rgb
+stuck wire8pin into the 8pin port and for other end - led ke niche DO port pins hai 
+to 1vala mein attache the 8pin ki  wire and then the out_of_rgb what u  will enter it will blink
 Explanation:
 Pin Configuration:
 
