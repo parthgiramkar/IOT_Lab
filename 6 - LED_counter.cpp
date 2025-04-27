@@ -69,6 +69,9 @@ void loop() {
 
 
 /*
+how to connect - to the left of rfid reader there is keypad and to  left  of  it there is leds
+which has 6pins so , - connect to it and for other end uske niche 2set of pins hai aur uske niche ke row mein 
+7set pins to use mein se 5 no. - ke pins ko connect kar aur wire jo hai 6pin vali rhegi 
 Code Explanation:
 #define GREEN_LED 4, etc.:
 You are giving names to pin numbers:
