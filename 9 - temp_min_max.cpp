@@ -53,6 +53,9 @@ void loop() {
 
 
 /*
+how to connect - same as in 8pratical means besides the adc for ardunio only , to its left  from that connect to its
+3 rd port , so connect the 3pinwire to that 3rd port and other end will be free as it will be reading the temp
+ libraries - DHTNEW by rob tillaart , DHT sensor library by adafruit , DHT11 by dhruba saha , DHT sensor library for ESPx by beegee_tokyo
 Code Explanation:- 
 #include <DHT.h>
 
