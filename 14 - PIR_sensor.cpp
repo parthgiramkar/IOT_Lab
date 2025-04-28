@@ -30,7 +30,9 @@ void loop() {
 
 
 /*
- how to connect : - 
+ how to connect : - connect the pir sensor which is of 3pin wire to the last row of adc for ardunio only in that row connect to the 8slot 
+  and then for - led connect the 6pin slot of led to the - uske niche 2slots hai aur uske niche 7slots hai so connect it to the last 
+  means the 7th slot of 6pin wire , so connect it
   Code Explanation : - 
 int pirPin = 7; → Pin 7 is used to connect the PIR sensor output.
 
