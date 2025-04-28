@@ -38,7 +38,8 @@ void loop() {
 
 
 /*  
-libraries to include - DHTlib by Rob Tillaart , 
+libraries to include - DHTlib by Rob Tillaart , DHTNEW by rob tillaart , DHT sensor library by adafruit , DHT11 by dhruba saha
+, DHT sensor library for ESPx by beegee_tokyo
 step-by-step explanation:
 1. #include "dht.h"
 This tells Arduino to use the DHT library (which has pre-written functions to work with the DHT sensor).
